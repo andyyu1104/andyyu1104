@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Hong Kong</h3>
 
 - 📫 How to reach me **andyuworking0237@gmail.com**
-- <p>🖥️ Portfolio webpage: <a href="https://andyyu1104.github.io/portfolio/" target="blank">andyyu1104.github.io/portfolio</a></p>
+- <p>🖥️ Portfolio webpage: <a href="https://andyyu1104.github.io" target="blank">andyyu1104.github.io</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
